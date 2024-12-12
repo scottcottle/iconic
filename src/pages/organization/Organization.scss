@@ -1,0 +1,13 @@
+.organization{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  .card{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 420px;
+    padding: 20px;
+  }
+}

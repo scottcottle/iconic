@@ -1,0 +1,13 @@
+.iconic-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  justify-items: center;
+  .iconic-content-wrapper {
+    display: flex;
+    flex-direction: column;
+    background: rgba(0,0,0, 0.1);
+  }
+
+}
